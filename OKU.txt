@@ -1,0 +1,11 @@
+📄 SORUMLULUK REDDİ BEYANI
+Bu yazılım yalnızca eğitimsel ve etik test amaçlarıyla geliştirilmiştir.
+Amacı, bilgi güvenliği farkındalığı oluşturmak, yazılım test süreçlerini desteklemek ve API servislerinin güvenlik seviyelerini değerlendirmektir.
+
+Yazılımın, herhangi bir kişi, kurum veya hizmet sağlayıcıya zarar verecek şekilde;
+izinsiz SMS gönderimi, hizmet aksatma, rahatsızlık verme ya da suç teşkil eden eylemler için kullanılması kesinlikle yasaktır.
+
+Bu yazılımı indirip kullanan her kullanıcı; yürürlükteki yasa, yönetmelik ve düzenlemelere uymayı ve doğabilecek tüm sonuçlardan tam sorumlulukla kendisinin yükümlü olacağını peşinen kabul eder.
+
+Geliştirici, yazılımın üçüncü kişiler tarafından kötüye kullanımı halinde hiçbir hukuki ya da cezai sorumluluk kabul etmez.
+Kullanım tamamen kullanıcının inisiyatifindedir.
