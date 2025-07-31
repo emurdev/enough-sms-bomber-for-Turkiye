@@ -1,6 +1,6 @@
-# Enough V2
+# Enough
 
-<h2>Credits : https://github.com/tingirifistik/Enough-Reborn</h2>
+<h2>Credits :https://github.com/emurdev</h2>
 
 1.01-Api eklendi ve tek dosya haline getirildi
 
