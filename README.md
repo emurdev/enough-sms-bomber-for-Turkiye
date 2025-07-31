@@ -1,44 +1,36 @@
-# Enough
-_It's enough to make a man go crazy_
-<br><br>
-[![Hits](https://hits.sh/github.com/tingirifistik/Enough-Reborn.svg?label=views&color=007ec6)](https://hits.sh/github.com/tingirifistik/Enough-Reborn/)
+# Enough V2
 
-<img src=https://github.com/tingirifistik/Enough-Reborn/assets/51286195/fc10a910-b4a4-4ff2-8058-62767b9af30f height="200px" width="400px"/>
-<img src=https://user-images.githubusercontent.com/51286195/209442235-7069b8e7-b3f3-4b70-82cb-a86014836be0.png height="200px" width="400px"/>
+<h2>Credits : https://github.com/tingirifistik/Enough-Reborn</h2>
+
+1.01-Api eklendi ve tek dosya haline getirildi
+
+1.02-Kod optimize edildi ve thread sistemi eklendi
+
+<img width="899" height="678" alt="image" src="https://github.com/user-attachments/assets/76a5ab7a-3d84-4aff-b6fb-1c8613426371" />
 
 
-<h2>Kurulum</h2>
+
+<img src=https://github.com/allahnumberone/enough-V2/assets/165521096/9352982e-6cc4-4ed4-8cac-9171b39e1351 height="200px" width="400px"/>
+
+<h3>Kurulum</h3>
 
 ```console
-git clone https://github.com/tingirifistik/Enough-Reborn.git
-cd Enough-Reborn
-pip3 install -r requirements.txt
-python3 enough.py
+apt update & apt upgrade
+apt install git
+git clone https://github.com/allahnumberone/enough-V2.git
+cd enough-V2
+python3 main.py
 ```
 
+# One line version (kopyala yapıştır yaparsın direkt)
+```console
+apt update & apt upgrade & apt install git & git clone https://github.com/allahnumberone/enough-V2.git & cd enough-V2 & python3 main.py
+```
 
-<h2>Discord Bot</h2>
+Kodu discord botuna entegre etmeniz kolay 1-2 şey ayarlıyorsun oluyor bitiyor eğer yapamıcak kadar script kidsen ekle dcden hallederiz
 
-Bot'un çalışabilmesi için 'Privileged Gateway Intents' seçeneklerinin hepsinin aktif olması gerekmektedir.
+Pip modullerini otomatik olarak eğer sizde indirilmediyse indirecektir tek yapmanınız gereken main.py'i çalıştırmak
 
-<h2>Discord Selfbot</h2>
+Çalmak serbest istediğinz gibi fontlarla oynayın credit salın yeter
 
-**Token bulma:**
-
-1- Tarayıcıdan bot olarak kullanacağınız Discord hesabına giriniz.<br>
-2- Tarayıcı konsolunu açınız.<br>
-3- Ağ trafiği izleme bölümüne geliniz.<br>
-4- Konsolu kapatmadan, Discord'da bu oturum boyunca tıklamadığınız bir sohbete tıklayınız.<br>
-5- Sonu *messages?limit=50* ile biten isteğe tıklayınız.<br>
-6- İsteğin *Header* kısmındaki *Authorization* değeri sizin token'ınızdır.<br>
-7- Bu token'ı *discord-selfbot-enough.py*'de *token* kısmına yazınız. (str olarak)<br>
-
-**Chat Id Bulma:**
-
-1- Bot hesabı ile mesajlaşacağınız kendi orijinal hesabınızdan bot'a bir tane mesaj atınız.<br>
-2- Tarayıcıda Discord'u açın ve bot hesabına giriş yapınız, ardından gerçek hesabınızın üzerine tıklayın.<br>
-3- Url'deki *@me*'den sonraki sayı sizin sohbet id'nizdir.<br>
-4- Bu id'yi *discord-selfbot-enough.py*'de *chat_id* kısmına yazınız. (int olarak)<br><br>
-**Not:** Eğer bot'u Discord sunucusunda kullanacaksanız, *channels*'dan sonra gelen, taksim ile ayrılmış iki sayıdan ikincisi sohbet id'nizdir.
-<br><br>
-<a href="https://www.buymeacoffee.com/tingirifistik" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+Soru ve yardım için insta : emirhan_dq
